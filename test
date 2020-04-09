@@ -1,0 +1,7 @@
+var arrowfunction = 
+  (arg1, arg2) => {
+  console.log(arg1, arg2)
+
+}
+
+arrowfunction ('Hey', 'you!')
